@@ -1,1 +1,1 @@
-Hello! THis me again! This programm sorts the array!
+Hello! This is me again! This programm sorts the array!
